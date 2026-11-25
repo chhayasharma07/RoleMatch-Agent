@@ -1,0 +1,74 @@
+[
+  {
+    "id": "job_01",
+    "title": "Software Engineering Trainee - AI Agents",
+    "company": "Elip",
+    "location": "Gurugram / Remote",
+    "stipend_or_ctc": "75K/month (25 LPA PPO)",
+    "skills": ["Python", "LLMs", "Tool Use", "Embeddings", "SQL", "FastAPI", "Docker"],
+    "description": "Build LLM-powered agents that use tools and remember context. Match people to jobs through semantic search, retrieval, and ranking."
+  },
+  {
+    "id": "job_02",
+    "title": "Backend Python Engineer",
+    "company": "FinStack India",
+    "location": "Bengaluru",
+    "stipend_or_ctc": "18 LPA",
+    "skills": ["Python", "FastAPI", "PostgreSQL", "Redis", "Docker", "REST APIs"],
+    "description": "Design high-throughput payment microservices, optimize SQL queries, and maintain reliable cloud deployments."
+  },
+  {
+    "id": "job_03",
+    "title": "Applied AI / RAG Engineer",
+    "company": "DocuSense AI",
+    "location": "Remote",
+    "stipend_or_ctc": "22 LPA",
+    "skills": ["Python", "RAG", "ChromaDB", "FAISS", "Prompt Engineering", "LLM Evals"],
+    "description": "Build document retrieval pipelines over enterprise PDFs, evaluate hallucination rates, and improve semantic ranking accuracy."
+  },
+  {
+    "id": "job_04",
+    "title": "Frontend React Developer",
+    "company": "PixelCraft",
+    "location": "Noida",
+    "stipend_or_ctc": "12 LPA",
+    "skills": ["React.js", "TypeScript", "Tailwind CSS", "Next.js"],
+    "description": "Build responsive web dashboards, design component libraries, and integrate REST APIs."
+  },
+  {
+    "id": "job_05",
+    "title": "Machine Learning Engineer - Recommendations",
+    "company": "StreamBox",
+    "location": "Gurugram",
+    "stipend_or_ctc": "24 LPA",
+    "skills": ["Python", "PyTorch", "Vector Search", "Ranking Models", "SQL"],
+    "description": "Build personalized content ranking algorithms and real-time vector retrieval engines for millions of users."
+  },
+  {
+    "id": "job_06",
+    "title": "Full Stack .NET & React Developer",
+    "company": "EnterpriseHealth",
+    "location": "Greater Noida",
+    "stipend_or_ctc": "14 LPA",
+    "skills": ["C#", "ASP.NET Core", "React.js", "SQL Server", "Azure"],
+    "description": "Develop healthcare portal workflows with role-based authentication and automated CI/CD pipelines."
+  },
+  {
+    "id": "job_07",
+    "title": "Data Engineer - PySpark & Cloud",
+    "company": "DataFlow Systems",
+    "location": "Hyderabad",
+    "stipend_or_ctc": "16 LPA",
+    "skills": ["Python", "PySpark", "SQL", "AWS", "ETL Pipelines"],
+    "description": "Build scalable batch and streaming ETL pipelines for enterprise analytics."
+  },
+  {
+    "id": "job_08",
+    "title": "Founding AI Product Engineer",
+    "company": "SearchPulse",
+    "location": "Bengaluru / Remote",
+    "stipend_or_ctc": "26 LPA",
+    "skills": ["Python", "LLM Agents", "Structured Outputs", "FastAPI", "Vector Databases"],
+    "description": "Ship end-to-end conversational search agents, build evaluation harnesses, and iterate rapidly based on user feedback."
+  }
+]
